@@ -3,5 +3,12 @@
   "version": "1.0.0",
   "main": "main.js",
   "author": "Stephen Purr",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.js",
+    "start:repl": "node scripts/repl.js"
+  },
+  "devDependencies": {
+    "repl": "^0.1.3"
+  }
 }
