@@ -1,0 +1,13 @@
+{
+  "name": "recipe_connection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Stephen Purr",
+  "license": "ISC"
+}
